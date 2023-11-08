@@ -20,7 +20,7 @@ gh autofix --help
 
 ## Background
 
-The `gh-autofix` extension for the `gh` CLI allows users to view and apply autofix suggestions made on their pull requests. See [code scanning documentation](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning) for more information.
+The `gh-autofix` extension for the `gh` CLI allows users to view and apply autofix suggestions made on their pull requests. See the [code scanning autofix documentation](https://docs.github.com/en/code-security/code-scanning/managing-code-scanning-alerts/about-autofix-for-codeql-code-scanning) for more information.
 
 Code scanning autofix is currently in private beta.
 
